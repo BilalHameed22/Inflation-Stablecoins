@@ -1,2 +1,2 @@
 # Inflation-Stablecoins
-This repo is aimed to established a detailed literature and python code to analyze effect of inflation on dollar-denominated stablecoins.
+This repo is to establish a detailed literature review and Python code to analyze the effect of inflation on dollar-denominated stablecoins.
